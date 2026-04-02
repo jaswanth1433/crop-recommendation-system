@@ -55,3 +55,8 @@ model, accuracy, feature_names = train_model(df)
 
 # Title
 
+st.title("Crop Recommendation System")
+st.write("Predict suitable crops based on soil nutrients and weather conditions")
+
+
+
