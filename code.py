@@ -65,3 +65,6 @@ st.write("Predict suitable crops based on soil nutrients and weather conditions"
 st.subheader("Model Performance")
 st.write(f"Accuracy: {accuracy*100:.2f}%")
 
+# Feature Graph Calculation
+
+
