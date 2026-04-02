@@ -13,3 +13,5 @@ from sklearn.metrics import accuracy_score
 @st.cache_data
 def load_data():
     return pd.read_csv("C:/Users/JASWATH/Downloads/archive/Crop_recommendation.csv")
+
+# Data preprocessing
