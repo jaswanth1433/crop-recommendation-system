@@ -51,3 +51,7 @@ def train_model(df):
 df = load_data()
 model, accuracy, feature_names = train_model(df)
 
+# Prediction Logic
+
+# Title
+
