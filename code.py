@@ -74,5 +74,5 @@ st.write(f"Accuracy: {accuracy*100:.2f}%")
 
 # Streamlit UI
 
-
+# Finished Project
 
