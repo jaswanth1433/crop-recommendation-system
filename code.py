@@ -72,5 +72,7 @@ st.write(f"Accuracy: {accuracy*100:.2f}%")
 st.subheader("Model Performance")
 st.write(f"Accuracy: {accuracy*100:.2f}%")
 
+# Streamlit UI
+
 
 
