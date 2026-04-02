@@ -45,3 +45,9 @@ def train_model(df):
     acc = accuracy_score(y_test, y_pred)
 
     return model, acc, X.columns
+
+# Model training
+
+df = load_data()
+model, accuracy, feature_names = train_model(df)
+
